@@ -18,7 +18,7 @@ Crafted by **[Stephen William G. De Jesus](https://www.facebook.com/stephenwilli
 ---
 
 ## 🌐 Live Demo  
-[View Live Demo](#) <!-- Replace # with your live link if available -->
+[View Live Demo](https://bogiiiie.github.io/19-javascript-task-management/)
 
 ---
 
